@@ -1,5 +1,5 @@
 # Estudos C# 8 e C# 9
-Estudos de uso de novidades do C# 8 e C#9
+Estudos de uso das novidades do C# 8 e C#9
 
 Documentações das novidades em:
 
