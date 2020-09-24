@@ -4,6 +4,10 @@ using System.Threading.Tasks;
 
 namespace EstudosCSharp8
 {
+    /// <summary>
+    /// Exemplos construídos com base na documentação do C# 8 
+    /// em https://docs.microsoft.com/pt-br/dotnet/csharp/whats-new/csharp-8
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
